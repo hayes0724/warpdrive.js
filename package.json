@@ -1,6 +1,6 @@
 {
   "name": "warpdrive.js",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "Eric Hayes <eric@hayesmarketing.io>",
   "main": "dist/warpdrive.cjs.js",
   "module": "dist/warpdrive.esm.js",
